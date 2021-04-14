@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning"
-author: "Eldrick Fonollera"
-date: "December 10, 2018"
+author: "Rakesh Shah"
+date: "April 14, 2021"
 output: html_document
 ---
 
